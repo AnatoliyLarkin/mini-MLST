@@ -1,4 +1,4 @@
-# Repository1
+# Mini-MLST typing tool for N. gonorrhoeae
 
 Offline extention for MiniMLST program allows free and effective opportunity to study and interpret multilocus sequence typing data for Neisseria gonorrhoeae.
 
