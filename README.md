@@ -2,24 +2,27 @@
 
 Offline extention for MiniMLST program allows free and effective opportunity to study and interpret multilocus sequence typing data for Neisseria gonorrhoeae.
 
-Current version of offline-MiniMLST supports 3 modes:
+## The current version of Offline Mini MLST supports 3 modes:
 
-1) Obtain MLST from nucleotide profile
-This mode allows to determine which sequence-type will be characterized by entered nucleotide profile. In addition, in case of unknown nucleotide profile, the most similar MLSTs will be shown. Output of this mode is accompanied with sequences alignment. Notice, that nucleotide profiles, that differ from the entered one by more than two mismatches will not be shown. Mode input supports sequences, containing 18 nucleotides in capital notation (ATGC). In case of doubtful nucleotide position or gaps letter N is required.
+1. Obtain MLST from nucleotide profile. This mode allows you to determine which sequence type is characterized by the entered nucleotide profile. Additionally, if the nucleotide profile is unknown, the most similar MLSTs are displayed. The output of this mode is accompanied by a sequence alignment. Note that nucleotide profiles differing by more than two mismatches will not be displayed. The input mode supports sequences containing 18 nucleotides in uppercase (ATGC). In case of doubtful nucleotide positions or gaps, the letter N is required.
 
-2) Obtain nucleotide profile from MLST
-This mode allows to extract the reference nucleotide profile for specific MLST. Input supports numbers [0-9]. MLST of interest will be graphically charactized by nucleotide profile with included coordinates and SNPs.
+2. Obtain Nucleotide Profile from MLST. This mode allows you to extract the reference nucleotide profile for a specific MLST. Input supports numbers [0-9]. The MLST of interest will be graphically characterized by the nucleotide profile with included coordinates and SNPs.
 
-3) Determine which genogroup the sequence type belongs to
-This mode allows to obtain the genogroup, that will be characteristic for MLST of interest. Input supports numbers [0-9]. In addition to genogroup determination, output also provides the list of other      MLSTs inside the specific genogroup.
+3. This mode allows you to determine the genogroup that will be characteristic of the MLST of interest. The input supports numbers [0-9]. In addition to genogroup determination, the output also provides a list of other MLSTs within the specified genogroup.
 
-Before program execution ensure, that you have following packages installed and updated: Pandas, regex, biopython. You can download them manually or type 'pip install -r requirements.txt'.
+Before running the program, make sure you have installed and updated the following packages: Pandas, regex, Biopython. You can download them manually or type 'pip install -r requirements.txt'.
 
-To execute the program type 'python3 MiniMLST.py'.
+To run the program, type 'python3 MiniMLST.py'.
 
-Information about program navigation is available by writing command 'help' or '4' in main menu. To ensure the stable and effective program usage we recommend you to follow console guidelines and input appropriate data only.
+Information about program navigation is available by typing "help" or "4" in the main menu. To ensure stable and effective use of the program, we recommend that you follow the console guidelines and enter only appropriate data.
 
-If any problems, errors or questions arose, please contact us - larkinanatanat@yandex.ru 
- 
+## Copyright:
+© This is an open software distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+## Funding:
+
+This work was supported by the Russian Science Foundation Grant No. 24-25-20084
+
+## Citation: 
 
 
