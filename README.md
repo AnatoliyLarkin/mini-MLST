@@ -1,6 +1,6 @@
 # Mini-MLST typing tool for N. gonorrhoeae
 
-Offline extention for MiniMLST program allows free and effective opportunity to study and interpret multilocus sequence typing data for Neisseria gonorrhoeae.
+The program is designed to genotype N. gonorrhoeae isolates by analyzing 18 informative single nucleotide polymorphisms in seven housekeeping genes abcZ, adk, aroE, fumC, gdh, pdhC, pgm.
 
 ## The current version of Offline Mini MLST supports 3 modes:
 
