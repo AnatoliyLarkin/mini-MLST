@@ -24,5 +24,6 @@ Information about program navigation is available by typing "help" or "4" in the
 This work was supported by the Russian Science Foundation Grant No. 24-25-20084
 
 ## Citation: 
+Kandinov, I.; Shaskolskiy, B.; Kravtsov, D.; Filippova, M.; Larkin, A.; Gryadunov, D. Mini-Multilocus Sequence Typing Scheme for the Global Population of Neisseria gonorrhoeae. Int. J. Mol. Sci. 2024, 25, 5781. https://doi.org/10.3390/ijms25115781 
 
 
